@@ -2,7 +2,7 @@
 - core java programs
 - OOPs
 - collection framework
- multi threading
- design patterns
- FILE IO
- other concepts
+- multi threading
+- design patterns
+- FILE IO
+- other concepts
