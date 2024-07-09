@@ -1,8 +1,13 @@
-# Java programs
-- core java programs
+# java programs
+Author - Nethra
+
+This Repo contains the source code for the Exercise that we have done in the ATB7x batch
+
+- Core JAVA
 - OOPs
-- collection framework
-- multi threading
-- design patterns
+- Collections Framework
+- Multi Threading
+- Design Patterns
 - FILE IO
-- other concepts
+- Other misc concepts
+- Exception
